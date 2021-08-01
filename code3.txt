@@ -1,0 +1,39 @@
+{
+  "firstuser":[
+  "name":"Bhuvana",
+  "age":21,
+  "dob":"01-03-2000",
+  "firstName":"A",
+  "lastName":"Bhuvana",
+  "more":{
+    "address_line1":"3/112",
+    "address_line2":"Ramasamy Strret",
+    "address_line3":"Sendurai",
+    "phone":"242759",
+    "Sex":"Female",
+    "Fathers_Name":"Arumugam",
+    "Mothers_Name":"Thamizharasi",
+    "Nationality":"Indian",
+  }
+  ],
+  {
+  "seconduser":[
+    "name":"Udhaya",
+    "age":22,
+    "dob":"16-11-1999",
+    "firstName":"U",
+    "lastName":"Udhaya"
+    "more":{
+      "address_line1":"3/300",
+      "address_line2":"AnnaNagar",
+      "address_line3":"Ariyalur",
+      "phone":"256734",
+      "Sex":"Female",
+      "Fathers_Name":"Udhaya kumar",
+      "Mothers_Name":"Sudha",
+      "Nationality":"Indian",
+      
+    }
+  ]
+  }
+}
